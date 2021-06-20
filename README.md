@@ -1,17 +1,17 @@
 # Telegraph Bot
 
-## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [@DOtelegraph_uploaderbot](https://t.me/DOtelegraph_uploaderbot)
+## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [SLBOTstelegraph_uploaderbot](https://t.me/Thuploderbot)
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dihanofficial/TelegraphBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/slbotofficial11/TelegraphBot)
 
 ### Credits:
 
-[Dihan Official](https://t.me/dihanofficial)
+[Sadew Jayasekara](https://t.me/darkridersslk)
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
 ### Developers:
 
-[@dihanrandila](https://t.me/dihanrandila)
+[Sadew Jayasekara](https://t.me/darkridersslk)
